@@ -22,3 +22,9 @@ Dicas:
 - O maior produto possível é o maior entre a multiplicação do maior, do segundo maior e do
   terceiro maior número e a multiplicação do maior, do menor e do segundo menor número.
   • Não poderá utilizar bibliotecas ou módulos, precisa ser feito com códigos puros.
+
+#Documentação:
+-Atividade realizada em Python
+
+#Requisitos
+-python ^3.9

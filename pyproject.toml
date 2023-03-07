@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "test-grupo-natureza"
 version = "0.1.0"
-description = ""
+description = "Atividade Desenvolvedor da empresa Grupo Natureza"
 authors = ["Leonardo"]
 readme = "README.md"
 packages = [{include = "test_grupo_natureza"}]
